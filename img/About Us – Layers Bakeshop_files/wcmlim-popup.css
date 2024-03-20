@@ -1,0 +1,134 @@
+.set-def-store-popup-btn {
+  margin: 3px 0 0;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.23px;
+  color: #3b1159;
+  background: url('../img/location.svg') no-repeat top center;
+  display: inline-block;
+  max-width: 170px;
+  min-height: 45px;
+  vertical-align: bottom;
+  text-indent: initial;
+  text-align: center;
+  text-indent: 0% 100%;
+  width: 100%;
+  word-break: break-word;
+  line-height: 1;
+  /* padding-top: 25px; */
+  padding-top: 16px;
+}
+
+.mfp-content .inline_wcmlim_lc {
+  padding: 0px;
+}
+.mfp-content .set-def-store-popup-div {
+  padding: 20px;
+  background-color: #ffffff;
+  max-width: 550px;
+  margin: 25px auto;
+  border: 3px solid #ffffff;
+  border-radius: 3px;
+  position: relative;
+  box-shadow: 1px 6px 7px 10px #ddd;
+}
+.mfp-content .mfp-close {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  height: 25px;
+  width: 25px;
+  background: #3b1159;
+  text-align: center;
+  border-radius: 3px;
+  color: #ffffff;
+  line-height: 25px;
+  font-size: 25px;
+  padding-left: 2px;
+}
+.mfp-content .set-def-store-popup-div .wcmlim_change_lc_to {
+  font-family: "Roboto Slab";
+  font-weight: 600;
+  font-size: 22px;
+  letter-spacing: 0.53px;
+  color: #3b1159;
+  margin-bottom: 15px;
+}
+.mfp-content .set-def-store-popup-div #wcmlim-change-lc-select {
+  width: 100%;
+  border: 2px solid #682c8f;
+  text-transform: capitalize;
+  padding: 10px;
+  height: 45px;
+}
+.inline_wcmlim_lc .wcmlim_form_box,
+.inline_wcmlim_lc .wcmlim_form_box .search_rep,
+.inline_wcmlim_lc .wcmlim_form_box .postcode-checker,
+.inline_wcmlim_lc .wcmlim_form_box .wcmlim_sel_location,
+.inline_wcmlim_lc .wcmlim_form_box .postcode_wcmliminput {
+  display: block;
+}
+.inline_wcmlim_lc .wcmlim_form_box .postcode-checker {
+  padding: 0;
+  position: relative;
+}
+.mfp-content .postcode-checker-div input[type="text"] {
+  width: 100%;
+  border: 2px solid #682c8f;
+  text-transform: capitalize;
+  padding: 10px;
+  /* height: 45px; */
+  height: auto;
+}
+.mfp-content .postcode-checker-div input[type="button"] {
+  font-family: "Jost-Regular";
+  font-size: 16px;
+  line-height: 1.33;
+  letter-spacing: 0.23px;
+  text-align: center;
+  display: inline-block;
+  color: #ffffff;
+  padding: 10px 20px;
+  border-radius: 0px;
+  background-color: #682c8f;
+  border: 0px solid #682c8f;
+  text-decoration: none;
+  height: auto;
+}
+.mfp-content .postcode-checker-div input[type="button"]:hover {
+  color: #ffffff;
+  text-decoration: none;
+  background-color: #f67717;
+  border: 0px solid #f67717;
+}
+.mfp-content .wclimlocsearch {
+  top: 0px;
+  border-radius: 0px;
+  box-shadow: none;
+  top: -2px;
+  text-align: left;
+  border: 2px solid #cacaca;
+  width: 198px;
+}
+.mfp-content .wclimlocsearch a {
+  font-family: "Jost-Regular";
+  font-size: 16px;
+  text-decoration: none;
+  font-weight: normal;
+  color: #000000;
+}
+
+.white-popup-block {
+  padding: 40px 20px;
+  background: #ffffff;
+  max-width: 700px;
+  margin: 20px auto;
+  border-radius: 5px;
+  position: relative;
+  background-size: cover;
+  height: 450px;
+  position: relative;
+}

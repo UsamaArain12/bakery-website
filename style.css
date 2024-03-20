@@ -1,0 +1,239 @@
+body{
+    font-family: sans-serif;
+}
+nav{
+    display: flex;
+    padding: 30px;
+    width: 97%;
+}
+.pages #h{
+    margin-left: 280px;
+    text-decoration: none;
+    font-size: x-large;
+
+}
+i{
+    color:rgb(209, 182, 115) ;
+}
+.pages{
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    margin-left: 30px;
+    font-size: x-large;
+}
+.icon .fa-magnifying-glass{
+    margin-left: 200px;
+    font-size: large;
+}
+#home-img{
+    margin-left:5%;
+}
+.icon i{
+    margin-left: 20px;
+    font-size: large;
+}
+.content{
+    display: flex;
+}
+.content img{
+    margin-left: 20px;
+    width: 50%;
+}
+.best-cake{
+    display: flex;
+    justify-content: space-around;
+}
+.text{
+    padding: 20px;
+    width: 50%;
+}
+.first-c,.sec-c,.th-c{
+    width: 23%;
+  text-align: justify;
+  margin-left: 20px;
+}
+span{
+    color:rgb(209, 182, 115);
+}
+h1{
+    text-align: center;
+}
+.link a{
+    text-decoration: none;
+    font-size: xx-large;
+    text-align: center;
+    
+}
+.link button{
+    border: none;
+    outline: none;
+    background: transparent;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.im img{
+    position: relative;
+}
+.h3{
+    position: absolute;
+    margin-top: -200px;
+   margin-left: 500px;
+    font-size: 60px;
+    color: white;
+}
+.about-content{
+display: flex;
+justify-content: space-between;
+}
+.about-content #about{
+    margin-left: 130px;
+    width: 30%;
+}
+.about-text{
+    justify-content: space-between;
+    padding: 20px;
+    width: 50%;
+    margin-top: 50px;
+}
+.aside{
+    display: flex;
+}
+.grow{
+    justify-content: space-between;
+    padding: 20px;
+    width: 50%;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.a-im{
+    margin-left: 130px;
+    width: 50%;
+}
+hr{
+    width: 30%;
+    margin-left: 50px;
+}
+.about-f{
+    display: flex;
+}
+.about-f img{
+    margin-left: 40px;
+}
+.a-t{
+    padding: 50px;
+}
+.a-t span a{
+    text-decoration: none;
+    color:rgb(209, 182, 115) ;
+}
+#about-btn{
+    width: 380px;
+    height: 50px;
+    outline: none;
+    border: none;
+    background-color: rgb(209, 182, 115);
+}
+#about-btn a{
+    text-decoration: none;
+    color: white;
+    font-size: x-large;
+}
+.contact{
+    display: flex;
+}
+.feedback{
+    width: 50%;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.feedback button{
+    width: 150px;
+height: 40px;
+    background-color:rgb(209, 182, 115) ;
+    color: white;
+    outline: none;
+    border: none;
+    font-size: x-large;
+}
+.service{
+    padding: 30px;
+    width: 50%;
+    font-size: x-large;
+}
+.h2{
+    margin-left: 30px;
+    font-size: xx-large;
+}
+input::placeholder{
+    color: rgb(209, 182, 115);
+}
+textarea{
+    color: rgb(209, 182, 115);
+
+}
+input{
+height: 25px;
+}
+#design{
+    position: relative;
+}
+#menu{
+    position: absolute;
+    margin-top: -160px;
+    margin-left: 500px;
+    font-size: 60px;
+}
+#our{
+    color: rgb(158, 156, 156);
+}
+.btn a{
+    text-decoration: none;
+    font-size: x-large;
+}
+.btn button{
+    background: transparent;
+    border: none;
+}
+.btn{
+    align-items: center;
+    text-align: center;
+}
+h3{
+    padding-left: 30px;
+    font-size: x-large;
+}
+.brownies-item{
+    display: flex;
+    justify-content: space-around;
+}
+.first-b,.sec-b,.th-b,.f-b{
+    width: 15%;
+  text-align: justify;
+  margin-left: -70px;
+  align-items: center;
+}
+h4{
+   text-align: left;
+}
+#top{
+    background: rgb(209, 182, 115);
+    border-radius: 15px;
+    width: 80px;
+    height: 30px;
+    margin-left: 20px;
+    border: none;
+}
+#top a{
+    color: white;
+    text-decoration: none;
+    font-size: large;
+    
+}
